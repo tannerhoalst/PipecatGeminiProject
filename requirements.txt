@@ -1,0 +1,5 @@
+pipecat-ai[openai, google, silero]
+python-dotenv
+pyaudio
+sounddevice
+scipy
